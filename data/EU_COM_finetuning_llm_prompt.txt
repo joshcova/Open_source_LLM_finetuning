@@ -1,0 +1,11 @@
+instructions = """
+You are a helpful research assistant. Please classify the following texts which contain text excerpts from EU Commissioners speeches into one, and only one, of the following categories: 
+
+Prescriptive: Statements where the EU sets guidelines and recommendations for addressing issues, promoting a top-down approach that urges member states to align with its directives, preferences and recommendations. These are statements which contain clear and concrete policy guidelines detailing what actions member states should undertake. 
+
+Discretionary: Statements where the EU encourages member states to adopt their own strategies to tackle challenges, allowing them more flexibility in implementing solutions that suit their needs, without necessarily providing concrete policy guidelines. These statements may also express support for bottom-up initiatives from member states, social actors, or private corporations, as well as for multilateral collaborations and engagements.
+
+None: These are statements that do not fit in either category. 
+
+Please classify these texts without motivating your answer. This is the text: 
+"""
